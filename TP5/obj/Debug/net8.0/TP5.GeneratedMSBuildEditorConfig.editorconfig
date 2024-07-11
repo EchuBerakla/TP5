@@ -18,16 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\TP5\TP5
 build_property._RazorSourceGeneratorDebug = 
 
-[Z:/TP5/TP5/Views/creditos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcY3JlZGl0b3MuY3NodG1s
+[Z:/TP5/TP5/Views/Home/creditos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[Z:/TP5/TP5/Views/habitacion1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcaGFiaXRhY2lvbjEuY3NodG1s
+[Z:/TP5/TP5/Views/Home/habitacion1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxoYWJpdGFjaW9uMS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/TP5/TP5/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/TP5/TP5/Views/Home/tutorial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0dXRvcmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[Z:/TP5/TP5/Views/Home/victoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2aWN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/TP5/TP5/Views/Shared/_Layout.cshtml]
@@ -36,14 +44,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [Z:/TP5/TP5/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[Z:/TP5/TP5/Views/tutorial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdHV0b3JpYWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[Z:/TP5/TP5/Views/victoria.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcdmljdG9yaWEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/TP5/TP5/Views/_ViewImports.cshtml]

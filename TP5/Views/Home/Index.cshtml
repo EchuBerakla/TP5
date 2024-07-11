@@ -1,30 +1,29 @@
-﻿<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="utf-8" />
-    <title>Inicio del Juego</title>
-</head>
-<body>
-    <div class="container">
-        <div class="text-center">
-            <h1>Nombre del Juego</h1>
-            <img src="ruta_al_logo_del_juego.png" alt="Logo del Juego" class="logo" />
-            <p class="slogan">Slogan del Juego</p>
-        </div>
+﻿@{
+    ViewData["Title"] = "Index";
+}
 
-        <div class="game-images">
-            <img src="imagen1.jpg" alt="Imagen Descriptiva 1" />
+    <div>
+        <div>
+            <h1>Escape Room: El Conjuro 4</h1>
+            <img src="img\Imagen1.webp" alt="Logo del Juego"/>
+            <p>que no te atrapen!</p>
+        </div>
+    <a href='@Url.Action("Comenzar","Home")'>Comienza la sala</a>
+
+        <div>
+            <img src="img\imagenindex.jpg"/>
             <img src="imagen2.jpg" alt="Imagen Descriptiva 2" />
             <img src="imagen3.jpg" alt="Imagen Descriptiva 3" />
         </div>
 
-        <div class="links">
+        <div>
             <ul>
-                <li><a href="tutorial.html">Tutorial del Juego</a></li>
-                <li><a href="comenzar.html">Inicio del Juego</a></li>
-                <li><a href="creditos.html">Créditos</a></li>
+                <a href='@Url.Action("Tutorial","Home")'>Tutorial y explicacion</a>
             </ul>
+            <ul>
+                <a href='@Url.Action("Creditos","Home")'>Creditos</a>
+            </ul>
+            
         </div>
     </div>
-</body>
-</html>
+

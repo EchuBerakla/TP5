@@ -19329,23 +19329,8 @@
   "RootNamespace": "TP5",
   "Documents": [
     {
-      "FilePath": "z:\\TP5\\TP5\\Views\\victoria.cshtml",
-      "TargetPath": "Views\\victoria.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "z:\\TP5\\TP5\\Views\\tutorial.cshtml",
-      "TargetPath": "Views\\tutorial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "z:\\TP5\\TP5\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "z:\\TP5\\TP5\\Views\\creditos.cshtml",
-      "TargetPath": "Views\\creditos.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19359,8 +19344,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "z:\\TP5\\TP5\\Views\\habitacion1.cshtml",
-      "TargetPath": "Views\\habitacion1.cshtml",
+      "FilePath": "z:\\TP5\\TP5\\Views\\Home\\tutorial.cshtml",
+      "TargetPath": "Views\\Home\\tutorial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "z:\\TP5\\TP5\\Views\\Home\\habitacion1.cshtml",
+      "TargetPath": "Views\\Home\\habitacion1.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19369,8 +19359,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "z:\\TP5\\TP5\\Views\\Home\\victoria.cshtml",
+      "TargetPath": "Views\\Home\\victoria.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\TP5\\TP5\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "z:\\TP5\\TP5\\Views\\Home\\creditos.cshtml",
+      "TargetPath": "Views\\Home\\creditos.cshtml",
       "FileKind": "mvc"
     }
   ],

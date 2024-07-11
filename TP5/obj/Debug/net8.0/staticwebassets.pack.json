@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\img\\Imagen1.webp"
     },
     {
+      "Id": "Z:\\TP5\\TP5\\wwwroot\\img\\imagenindex.avif",
+      "PackagePath": "staticwebassets\\img\\imagenindex.avif"
+    },
+    {
+      "Id": "Z:\\TP5\\TP5\\wwwroot\\img\\imagenindex.jpg",
+      "PackagePath": "staticwebassets\\img\\imagenindex.jpg"
+    },
+    {
       "Id": "Z:\\TP5\\TP5\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
