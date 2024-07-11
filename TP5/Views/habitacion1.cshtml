@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = $"Habitación {ViewBag.Sala}";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>Texto relatando lo que se encuentra en la sala y lo que hay que hacer.</p>
+
+<img src="~/images/sala@ViewBag.Sala.jpg" alt="Sala @ViewBag.Sala">
+
+<form asp-action="Habitacion" method="post">
+    <label>Clave:</label>
+    <input type="text" name="clave" required>
+    <button type="submit">VALIDAR</button>
+</form>
+
+<button onclick="alert('Pista 1: Mirá las paredes...')">Pista 1</button>
+
+<a asp-action="Comenzar">Volver a la habitación anterior</a>

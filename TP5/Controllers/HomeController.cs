@@ -1,36 +1,62 @@
-using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using TP5.Models;
-
-namespace TP5.Controllers;
 
 public class HomeController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
-
-    public HomeController(ILogger<HomeController> logger)
-    {
-        _logger = logger;
-    }
-
     public IActionResult Index()
     {
         return View();
     }
+
     public IActionResult Tutorial()
     {
         return View();
     }
 
-    public IActionResult Comenzar() 
+    public IActionResult Comenzar()
+{
+    int estadoJuego = Escape.GetEstadoJuego();
+
+    if (estadoJuego > 4)
+    {
+        return View("Victoria");
+    }
+
+    ViewBag.Sala = estadoJuego;
+
+    return View($"habitacion{estadoJuego}");
+}   
+    public IActionResult Habitacion(int sala, string clave)
+{
+    bool esCorrecta = Escape.ResolverSala(sala, clave);
+
+    if (!esCorrecta)
+    {
+        ViewBag.Error = "La respuesta escrita fue incorrecta.";
+    }
+
+    ViewBag.Sala = sala;
+
+    int estadoJuego = Escape.GetEstadoJuego();
+    if (estadoJuego > 4)
+    {
+        return View("Victoria");
+    }
+
+    return View($"habitacion{estadoJuego}");
+}
+
+
+    public IActionResult Victoria(string nombreJugador)
+{
+    ViewBag.NombreJugador = nombreJugador; 
+    return View();
+}
+
+    public IActionResult Creditos()
     {
         return View();
     }
 
-    public IActionResult Habitacion(int sala, string clave) 
-    {
-        return View();
-    }
-
-
+   
+   
 }
