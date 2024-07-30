@@ -1,6 +1,7 @@
 html {
   font-size: 14px;
   min-height: 100%;
+  background-color: #000;
 }
 
 @media (min-width: 768px) {
@@ -12,8 +13,12 @@ html {
 body {
   margin: 10px;
   padding: 10px;
-  background-color: black;
+  
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Aplica la fuente de terror a todo el contenido */
+
 }
+
+
 
 
 footer {
@@ -41,6 +46,29 @@ footer {
   display: block; 
   margin: 0 auto; 
 }
-.botones{
-  align-items: center;
+.botones {
+  display: flex; 
+  justify-content: center; 
+  margin: 20px 0; 
+}
+
+.botones a {
+  margin: 0 10px; 
+  text-decoration: none; 
+  color: #000; 
+  padding: 10px 15px;
+  border: 2px solid #000; 
+  border-radius: 5px;
+  margin-bottom: 2%;
+  color: white;
+  
+}
+
+*{
+  color: white;
+}
+h1,p{
+  display: flex; 
+  justify-content: center;  
+  font-size: xx-large;
 }
