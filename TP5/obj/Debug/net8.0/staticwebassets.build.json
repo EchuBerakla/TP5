@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "jW4ZawlMXQSWyeLjj4GTcnAu7Gjag/NUblP0HmcGEXw=",
+=======
+  "Hash": "UIwtyR7ZdJxi4mDtOB2zT4rcFHmUOzyMwOgNDOw4TtA=",
+>>>>>>> 1c02f8b9721a3bb154465b553824245e2faeb5d9
   "Source": "TP5",
   "BasePath": "_content/TP5",
   "Mode": "Default",
@@ -74,7 +78,49 @@
       "OriginalItemSpec": "wwwroot\\img\\Banner.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "Z:\\4b\\Programacion\\TP5\\TP5\\wwwroot\\js\\site.js",
+=======
+      "Identity": "Z:\\TP5\\TP5\\wwwroot\\img\\imagenindex.avif",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\TP5\\TP5\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "img/imagenindex.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\imagenindex.avif"
+    },
+    {
+      "Identity": "Z:\\TP5\\TP5\\wwwroot\\img\\imagenindex.jpg",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\TP5\\TP5\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "img/imagenindex.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\imagenindex.jpg"
+    },
+    {
+      "Identity": "Z:\\TP5\\TP5\\wwwroot\\js\\site.js",
+>>>>>>> 1c02f8b9721a3bb154465b553824245e2faeb5d9
       "SourceId": "TP5",
       "SourceType": "Discovered",
       "ContentRoot": "Z:\\4b\\Programacion\\TP5\\TP5\\wwwroot\\",

@@ -22,12 +22,20 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjcmVkaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[z:/4b/Programacion/TP5/TP5/Views/Home/habitacion1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxoYWJpdGFjaW9uMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [z:/4b/Programacion/TP5/TP5/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [z:/4b/Programacion/TP5/TP5/Views/Home/tutorial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0dXRvcmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[z:/4b/Programacion/TP5/TP5/Views/Home/victoria.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2aWN0b3JpYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [z:/4b/Programacion/TP5/TP5/Views/Shared/_Layout.cshtml]
