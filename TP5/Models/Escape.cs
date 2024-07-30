@@ -7,9 +7,9 @@ public static class Escape {
     }
     public static int GetEstadoJuego()  {
     
-        int Sala = 0;
+        int estadoJuego = 0;
 
-        return Sala;
+        return estadoJuego;
     }
     public static bool ResolverSala(int Sala, string Incognita)  {
 
