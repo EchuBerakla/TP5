@@ -3,43 +3,34 @@
 }
     <link rel="stylesheet" href="site.css">
     <header>
-        <h1>El Conjuro 4</h1>
-        <p>Cagate de miedo</p>
         <img src="img/Banner.png" >
     </header>
 
 
-<div>
+
+
+    
+    <div>
+        <h1>Escape Room</h1>
+        <img class="img1" src="img/Imagen1.webp" alt="Logo del Juego" />
+        <p>¡que no te atrapen!</p>
+    </div>
+
+    <div class = botones>
+
+    <a href='@Url.Action("Comenzar","Home")'>Comienza la sala</a>
+    <a href='@Url.Action("Tutorial","Home")'>Tutorial y explicación</a>
+    <a href='@Url.Action("Creditos","Home")'>Créditos</a>
+    </div>
+
+    <img class="img2" src="img/imagenindex.jpg" alt="Imagen Index" />
+    
+
+
+
+    <div>
         
-    <button><a href="tutorial.cshtml">Tutorial de la sala de escape</a></button> 
-    <button><a href="inicioJuego.cshtml">Iniciar Juego</a></button>
-    <button><a href="creditos.cshtml">Creditos</a></button>
+    </div>
 </div>
 
-<footer>
 
-</footer>
-    <div>
-        <div>
-            <h1>Escape Room: El Conjuro 4</h1>
-            <img src="img\Imagen1.webp" alt="Logo del Juego"/>
-            <p>que no te atrapen!</p>
-        </div>
-    <a href='@Url.Action("Comenzar","Home")'>Comienza la sala</a>
-
-        <div>
-            <img src="img\imagenindex.jpg"/>
-            <img src="imagen2.jpg" alt="Imagen Descriptiva 2" />
-            <img src="imagen3.jpg" alt="Imagen Descriptiva 3" />
-        </div>
-
-        <div>
-            <ul>
-                <a href='@Url.Action("Tutorial","Home")'>Tutorial y explicacion</a>
-            </ul>
-            <ul>
-                <a href='@Url.Action("Creditos","Home")'>Creditos</a>
-            </ul>
-            
-        </div>
-    </div>
