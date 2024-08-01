@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\img\\Banner.png",
+      "PackagePath": "staticwebassets\\img\\Banner.png"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\img\\el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif",
+      "PackagePath": "staticwebassets\\img\\el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\img\\imagenindex.avif",
+      "PackagePath": "staticwebassets\\img\\imagenindex.avif"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\img\\imagenindex.jpg",
+      "PackagePath": "staticwebassets\\img\\imagenindex.jpg"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\TP5\\test\\TP5\\TP5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP5.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP5.props",
+      "PackagePath": "build\\TP5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP5.props",
+      "PackagePath": "buildMultiTargeting\\TP5.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP5.props",
+      "PackagePath": "buildTransitive\\TP5.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
