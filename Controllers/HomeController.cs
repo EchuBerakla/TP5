@@ -23,8 +23,9 @@ public class HomeController : Controller
 
     ViewBag.Sala = estadoJuego;
 
-    return View($"habitacion{estadoJuego}");
+    return View($"habitacion" + estadoJuego);
 }   
+    [HttpPost]
     public IActionResult Habitacion(int sala, string clave)
 {
     bool esCorrecta = Escape.ResolverSala(sala, clave);
@@ -32,17 +33,19 @@ public class HomeController : Controller
     if (!esCorrecta)
     {
         ViewBag.Error = "La respuesta escrita fue incorrecta.";
+        ViewBag.Sala = sala;
+        return View("Habitacion" +sala);
     }
 
-    ViewBag.Sala = sala;
+    ViewBag.Sala = Escape.GetEstadoJuego();
 
-    int estadoJuego = Escape.GetEstadoJuego();
-    if (estadoJuego > 4)
+    
+    if (Escape.GetEstadoJuego() > 4)
     {
         return View("Victoria");
     }
 
-    return View($"habitacion{estadoJuego}");
+    return View("habitacion" + Escape.GetEstadoJuego());
 }
 
 
