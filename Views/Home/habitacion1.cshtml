@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = $"Habitación {ViewBag.Sala}";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<p>Para pasar a la siguiente habitación y que Valak no te capture, 
+tendrás que pasar por una </p>
+
+<iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/9490465-de_terror.html"></iframe>
+<p>Si acertaste más de 20, continúa a la siguiente sala; si no, perdiste.</p>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<div class="botoneshabitacion">
+    <form action='@Url.Action("Habitacion", "Home")' method="post">
+        <input type="hidden" name="sala" value="@ViewBag.Sala" />
+        <input type="text" name="clave" placeholder="Ingresa la clave" />
+        <button type="submit">Enviar</button>
+    </form>
+
+    <a href='@Url.Action("Comenzar", "Home")' class="btn btn-primary">Siguiente Habitación</a>
+</div>
