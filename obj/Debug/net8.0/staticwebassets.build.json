@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SeT4S2CkdskId8V5sjXgHY97nm5cQb2UgiHwPmenyB4=",
+  "Hash": "I773nszGjwSrgY9ALBZ0Y1u5+ZUI5FcObTQY4wcL3L8=",
   "Source": "TP5",
   "BasePath": "_content/TP5",
   "Mode": "Default",
@@ -131,6 +131,25 @@
       "OriginalItemSpec": "wwwroot\\img\\el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif"
     },
     {
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\imagencreditos.jpg",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "img/imagencreditos.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\imagencreditos.jpg"
+    },
+    {
       "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\imagenindex.avif",
       "SourceId": "TP5",
       "SourceType": "Discovered",
@@ -167,6 +186,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\imagenindex.jpg"
+    },
+    {
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\imagentutorial.jpg",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "img/imagentutorial.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\imagentutorial.jpg"
     },
     {
       "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\Thumbs.db",

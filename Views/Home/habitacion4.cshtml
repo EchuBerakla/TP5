@@ -5,6 +5,12 @@
 
 <p>No me quedó claro... Ed y Lorraine que eran?</p>
 
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+
 <form asp-action="Habitacion" method="post">
     <input type="hidden" name="sala" value="@ViewBag.Sala" />
     <input type="text" id="clave" name="clave" required />

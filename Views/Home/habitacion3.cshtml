@@ -3,6 +3,12 @@
 
 <iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/19658596-el_misterio_encantado.html"></iframe>
 
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+
 <form asp-action="Habitacion" method="post">
     <input type="hidden" name="sala" value="@ViewBag.Sala" />
     <input type="text" id="clave" name="clave" required />

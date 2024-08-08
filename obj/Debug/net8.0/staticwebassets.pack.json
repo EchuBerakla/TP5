@@ -29,12 +29,20 @@
       "PackagePath": "staticwebassets\\img\\el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif"
     },
     {
+      "Id": "Z:\\TP05 FINAL\\wwwroot\\img\\imagencreditos.jpg",
+      "PackagePath": "staticwebassets\\img\\imagencreditos.jpg"
+    },
+    {
       "Id": "Z:\\TP05 FINAL\\wwwroot\\img\\imagenindex.avif",
       "PackagePath": "staticwebassets\\img\\imagenindex.avif"
     },
     {
       "Id": "Z:\\TP05 FINAL\\wwwroot\\img\\imagenindex.jpg",
       "PackagePath": "staticwebassets\\img\\imagenindex.jpg"
+    },
+    {
+      "Id": "Z:\\TP05 FINAL\\wwwroot\\img\\imagentutorial.jpg",
+      "PackagePath": "staticwebassets\\img\\imagentutorial.jpg"
     },
     {
       "Id": "Z:\\TP05 FINAL\\wwwroot\\img\\video1.mp4",

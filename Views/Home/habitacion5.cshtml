@@ -1,9 +1,15 @@
 <h1>Habitacion 5: El gran final</h1>
 <p>Debes mirar el siguiente clip</p>
 
-<iframe src = "https://www.youtube.com/watch?v=OrEbkWtH5Sw"></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OrEbkWtH5Sw" ></iframe>
 
 <p>Ahora, luego de mirarlo atentamente, decime en donde escribe el nombre de la monja Lorraine? </p>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
 
 <form asp-action="Habitacion" method="post">
     <input type="hidden" name="sala" value="@ViewBag.Sala" />

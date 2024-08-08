@@ -1,8 +1,14 @@
 
 <H1>Habitacion 2: Los aplausos en el armario</h1>
-        <iframe src="https://www.youtube.com/embed/cZfeDbToqLk?controls=0&modestbranding=1&showinfo=0&rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cZfeDbToqLk?controls=0&modestbranding=1&showinfo=0&rel=0" ></iframe>
 
 <p>Ahora debes mirar el siguiente video, piensa y cuenta atentamente cuantos aplausos hubo en todo el clip  </p>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
 
 <form asp-action="Habitacion" method="post">
     <input type="hidden" name="sala" value="@ViewBag.Sala" />
