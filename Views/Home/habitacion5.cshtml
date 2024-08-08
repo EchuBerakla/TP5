@@ -1,0 +1,14 @@
+<h1>Habitacion 5: El gran final</h1>
+<p>Debes mirar el siguiente clip</p>
+
+<iframe src = "https://www.youtube.com/watch?v=OrEbkWtH5Sw"></iframe>
+
+<p>Ahora, luego de mirarlo atentamente, decime en donde escribe el nombre de la monja Lorraine? </p>
+
+<form asp-action="Habitacion" method="post">
+    <input type="hidden" name="sala" value="@ViewBag.Sala" />
+    <input type="text" id="clave" name="clave" required />
+            <button onclick="alert('Pista: Es un elemento religioso')"> Pista 1</button>
+            <button onclick="alert('Pista: Empieza con B')"> Pista 2</button>
+    <button type="submit">VALIDAR</button>
+</form>

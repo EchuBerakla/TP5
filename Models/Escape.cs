@@ -2,12 +2,12 @@ using System;
 
 public static class Escape
 {
-    private static string[] incognitasSalas = { "zombies", "clave2", "clave3", "clave4" };
+    private static string[] incognitasSalas = { "zombies", "6", "AHEMLLELTP", "investigadores" , "biblia" };
     private static int estadoJuego = 1;
 
     public static void InicializarJuego()
     {
-        incognitasSalas = new string[] { "zombies", "clave2", "clave3", "clave4" };
+        incognitasSalas = new string[] { "zombies", "6", "AHEMLLELTP" , "Investigadores" , "biblia"};
         estadoJuego = 1;
     }
 

@@ -1,0 +1,12 @@
+<h1>Habitacion 3: Adivinanzas</h1>
+<p>Debes resolver las siguientes adivinanzas. Toma nota de todas las iniciales de las palabras...</p>
+
+<iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/19658596-el_misterio_encantado.html"></iframe>
+
+<form asp-action="Habitacion" method="post">
+    <input type="hidden" name="sala" value="@ViewBag.Sala" />
+    <input type="text" id="clave" name="clave" required />
+            <button onclick="alert('Pista: La respuesta debe ir en mayusculas')"> Pista 1</button>.
+            <button onclick="alert('Pista: La respuesta es la primera letra de todas las palabras')"> Pista 2</button>.
+    <button type="submit">VALIDAR</button>
+</form>

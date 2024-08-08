@@ -16,7 +16,7 @@ public class HomeController : Controller
 {
     int estadoJuego = Escape.GetEstadoJuego();
 
-    if (estadoJuego > 4)
+    if (estadoJuego > 5)
     {
         return View("Victoria");
     }
@@ -40,7 +40,7 @@ public class HomeController : Controller
     ViewBag.Sala = Escape.GetEstadoJuego();
 
     
-    if (Escape.GetEstadoJuego() > 4)
+    if (Escape.GetEstadoJuego() > 5)
     {
         return View("Victoria");
     }

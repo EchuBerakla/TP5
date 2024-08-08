@@ -27,3 +27,32 @@ Z:\Programacion2024\TP5\obj\Debug\net8.0\refint\TP5.dll
 Z:\Programacion2024\TP5\obj\Debug\net8.0\TP5.pdb
 Z:\Programacion2024\TP5\obj\Debug\net8.0\TP5.genruntimeconfig.cache
 Z:\Programacion2024\TP5\obj\Debug\net8.0\ref\TP5.dll
+Z:\TP05 FINAL\bin\Debug\net8.0\appsettings.Development.json
+Z:\TP05 FINAL\bin\Debug\net8.0\appsettings.json
+Z:\TP05 FINAL\bin\Debug\net8.0\TP5.staticwebassets.runtime.json
+Z:\TP05 FINAL\bin\Debug\net8.0\TP5.exe
+Z:\TP05 FINAL\bin\Debug\net8.0\TP5.deps.json
+Z:\TP05 FINAL\bin\Debug\net8.0\TP5.runtimeconfig.json
+Z:\TP05 FINAL\bin\Debug\net8.0\TP5.dll
+Z:\TP05 FINAL\bin\Debug\net8.0\TP5.pdb
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.GeneratedMSBuildEditorConfig.editorconfig
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.AssemblyInfoInputs.cache
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.AssemblyInfo.cs
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.csproj.CoreCompileInputs.cache
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.MvcApplicationPartsAssemblyInfo.cache
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.RazorAssemblyInfo.cache
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.RazorAssemblyInfo.cs
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.sourcelink.json
+Z:\TP05 FINAL\obj\Debug\net8.0\staticwebassets.build.json
+Z:\TP05 FINAL\obj\Debug\net8.0\staticwebassets.development.json
+Z:\TP05 FINAL\obj\Debug\net8.0\staticwebassets\msbuild.TP5.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\TP05 FINAL\obj\Debug\net8.0\staticwebassets\msbuild.build.TP5.props
+Z:\TP05 FINAL\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP5.props
+Z:\TP05 FINAL\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP5.props
+Z:\TP05 FINAL\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\TP05 FINAL\obj\Debug\net8.0\scopedcss\bundle\TP5.styles.css
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.dll
+Z:\TP05 FINAL\obj\Debug\net8.0\refint\TP5.dll
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.pdb
+Z:\TP05 FINAL\obj\Debug\net8.0\TP5.genruntimeconfig.cache
+Z:\TP05 FINAL\obj\Debug\net8.0\ref\TP5.dll

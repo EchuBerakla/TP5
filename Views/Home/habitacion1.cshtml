@@ -1,14 +1,9 @@
-@{
-    ViewData["Title"] = $"Habitación {ViewBag.Sala}";
-}
+<H1>Habitacion 1: Pasapalabra terrorifico</h1>
 
-<h2>@ViewData["Title"]</h2>
 
-<p>Para pasar a la siguiente habitación y que Valak no te capture, 
-tendrás que pasar por una </p>
+<p>Debes resolver el siguiente pasapalabra, estate muy atento a las palabras de las ultimas 3 letras</p>
 
 <iframe allow="fullscreen; autoplay;" allowfullscreen width="795" height="690" frameborder="0" src="https://es.educaplay.com/juego/9490465-de_terror.html"></iframe>
-<p>Si acertaste más de 20, continúa a la siguiente sala; si no, perdiste.</p>
 
 @if (ViewBag.Error != null)
 {
@@ -19,8 +14,10 @@ tendrás que pasar por una </p>
     <form action='@Url.Action("Habitacion", "Home")' method="post">
         <input type="hidden" name="sala" value="@ViewBag.Sala" />
         <input type="text" name="clave" placeholder="Ingresa la clave" />
+         <button onclick="alert('Pista: La palabra contiene 7 letras')"> Pista 1</button>.
+        <button onclick="alert('Pista: La palabra de la Z es la correcta')"> Pista 2</button>.
         <button type="submit">Enviar</button>
+        
     </form>
 
-    <a href='@Url.Action("Comenzar", "Home")' class="btn btn-primary">Siguiente Habitación</a>
 </div>

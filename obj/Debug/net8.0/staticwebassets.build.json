@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oY/E94Zzr/oCIYkYCEzJGqfGOFpvuU8b0PDZ1Yi3+0s=",
+  "Hash": "SeT4S2CkdskId8V5sjXgHY97nm5cQb2UgiHwPmenyB4=",
   "Source": "TP5",
   "BasePath": "_content/TP5",
   "Mode": "Default",
@@ -10,17 +10,36 @@
     {
       "Name": "TP5\\wwwroot",
       "Source": "TP5",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\css\\site.css",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\audio\\index.mp3",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "audio/index.mp3",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audio\\index.mp3"
+    },
+    {
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\css\\site.css",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -36,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\favicon.ico",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\favicon.ico",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -55,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\img\\64971.jfif",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\64971.jfif",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "img/64971.jfif",
       "AssetKind": "All",
@@ -74,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\img\\64971.jfif"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\img\\Banner.png",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\Banner.png",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "img/Banner.png",
       "AssetKind": "All",
@@ -93,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Banner.png"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\img\\el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "img/el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\img\\el-conjuro-3-se-baso-en-el-caso-de-la-IT62LEVQJBGSPHL2ML7B625BLU.avif"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\img\\imagenindex.avif",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\imagenindex.avif",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "img/imagenindex.avif",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imagenindex.avif"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\img\\imagenindex.jpg",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\imagenindex.jpg",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "img/imagenindex.jpg",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imagenindex.jpg"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\img\\Thumbs.db",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\Thumbs.db",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "img/Thumbs.db",
       "AssetKind": "All",
@@ -169,10 +188,29 @@
       "OriginalItemSpec": "wwwroot\\img\\Thumbs.db"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\js\\site.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\img\\video1.mp4",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
+      "BasePath": "_content/TP5",
+      "RelativePath": "img/video1.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\video1.mp4"
+    },
+    {
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\js\\site.js",
+      "SourceId": "TP5",
+      "SourceType": "Discovered",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -188,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -207,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -226,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -245,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -264,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -283,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -302,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -321,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -340,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -359,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -378,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -397,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "Z:\\Programacion2024\\TP5\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "Z:\\TP05 FINAL\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TP5",
       "SourceType": "Discovered",
-      "ContentRoot": "Z:\\Programacion2024\\TP5\\wwwroot\\",
+      "ContentRoot": "Z:\\TP05 FINAL\\wwwroot\\",
       "BasePath": "_content/TP5",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
